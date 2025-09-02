@@ -35,11 +35,11 @@ The goal of this project is to evaluate vendor and brand performance, track sale
 
 ## 📌 KPIs Tracked  
 
-- **Total Sales ($)**  
-- **Total Purchase ($)**  
-- **Gross Profit ($)**  
-- **Profit Margin (%)**  
-- **Unsold Capital ($)**  
+- **Total Sales (441.41M $)**  
+- **Total Purchase (307.34M $)**  
+- **Gross Profit (134.07M $)**  
+- **Profit Margin (38.7%)**  
+- **Unsold Capital (2.71M $)**  
 - **Top Vendors by Sales**  
 - **Top Brands by Sales**  
 - **Low-Performing Vendors & Brands**  
