@@ -1,4 +1,4 @@
-# Vendor-Performance-Data-Analytics-End-To-End-Project
+<img width="3360" height="1890" alt="bdgVnDZ34QerKKr5min7EH" src="https://github.com/user-attachments/assets/44c7f812-07d8-441b-89b5-f439230d3298" /># Vendor-Performance-Data-Analytics-End-To-End-Project
 # 📊 Vendor Performance Data Analytics Project  
 
 An **end-to-end data analytics solution** built using **SQL, Python, and Power BI** to analyze vendor and brand performance. This project demonstrates how raw transactional data can be transformed into actionable insights for business decision-making.  
@@ -49,7 +49,8 @@ The goal of this project is to evaluate vendor and brand performance, track sale
 ## 📊 Dashboard Preview  
 
 ### Vendor Performance Dashboard (Power BI)  
-![Dashboard Screenshot](a08f4812-5c55-47c4-a50c-43305fa2d105.png)  
+![Dashboard Screenshot](<img width="3360" height="1890" alt="bdgVnDZ34QerKKr5min7EH" src="https://github.com/user-attachments/assets/f69107a9-8897-4587-ac56-5eee0bc7db2f" />
+)  
 
 ---
 
